@@ -10,7 +10,7 @@ namespace GitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("张三");
+            Console.WriteLine("这是我的一个测试，你不要看");
             Console.ReadKey();
         }
     }
