@@ -11,8 +11,6 @@ namespace GitApp
         static void Main(string[] args)
         {
             Console.WriteLine("张三");
-            Console.WriteLine("123456");
-            Console.WriteLine("abcdefg");
             Console.ReadKey();
         }
     }
